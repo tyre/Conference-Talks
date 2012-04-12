@@ -1,0 +1,13 @@
+"The Psychology of Testing"
+
+We carry with us psychological features from evolving from the savanna with interesting side effects on our software development process. The goal of testing, as with any tool, is to make engineers more efficient.
+
+In this session we'll discuss
+
+* Agent Detection (It's not Ruby, it's you)
+* Social memory
+* Compunded errors
+* Persisted Communication
+* Spandrel
+
+Let's start understanding the way our brains approach programming so that we can write better tests to make up for those errors we make over and over again.Learn to abstract their test-writing process to overcome thousands of years of evolution and squash complex bugs!
