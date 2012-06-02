@@ -1,0 +1,12 @@
+## Modularizing Services in Rails
+
+As projects scale, early trade-offs can begin to haunt you, but a "great rewrite" becomes ever more complicated and unlikely. Many larger Rails applications are written to contain every necessary feature, turning even the most distinct concepts and behaviors into one tightly-coupled behemoth.
+
+In this talk, we'll outline a chat application composed of distinct services including: 
+
+*  Authorization and session handling
+*  Search using ElasticSearch and JSON
+*  Persistence API using ActiveRecord
+*  Front-end with Ember.js
+
+This approach allows each service to be designed from the ground up with only its implementation in mind. Monitoring each disparate app makes finding bottlenecks and improving performance simple. If the need arises to teardown and rebuild one service, that can be easily tested and swapped in without affecting the entire application.

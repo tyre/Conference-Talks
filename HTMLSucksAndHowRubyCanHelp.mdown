@@ -1,0 +1,11 @@
+"HTML Sucks, and How Ruby Can Help"
+
+HTML is a mark-up language originally designed for formatting static-text documents to be passed amongst scientists. Despite the rapid adoption of object-oriented, Turing-complete languages like Ruby to build complex web applications, the front end is still stuck in the past. Here's what we'll cover:
+
+* HTML's tree structure is good for computers, bad for people
+* Web-design must remain search-engine friendly
+* ERB and the rise of the template
+* The future of the object-oriented front-end
+* True full-stack development in Rails
+
+We think of sites like Salesforce or Facebook as applications, but want to cram their design onto documents. CSS has been slow to adopt even the most basic principles of programming (variables! methods! constants!), so 'real' developers have eschewed the front end. Let's enable truly independent view layer testing in Rails, and bring the lessons learned with Ruby to the web!

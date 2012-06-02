@@ -8,4 +8,4 @@ The CS educational system is broken, but programs like Hungry Academy, Code Acad
 * Test Driven Development and the Segmentation Fault (a love story)
 * Code wins arguments - building products over dictating theory
 
-I had more practical understanding of the design, development environment, and testing of Ruby applicaitons after one month in the Hungry Academy than graduating CS majors. Our industry is only as strong as the community behind it, and its future is in our hands.
+I had more practical understanding of the design, development environment, and testing of Ruby applications after one month in the Hungry Academy than graduating CS majors. Our industry is only as strong as the community behind it, and its future is in our hands.
