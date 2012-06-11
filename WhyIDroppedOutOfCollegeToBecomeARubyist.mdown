@@ -1,6 +1,6 @@
 On January 31st I turned 21. On February 1st I was offered a spot in the Hungry Academy. A week later, I left one of the top 20 schools in America to become a Rubyist. 
 
-The CS educational system is broken, but programs like Hungry Academy, Code Academy, and Dev Bootcamp are changing the way we educate developers. Why do these programs work? Let's talk about:
+The CS educational system is broken, but programs like Hungry Academy, Code Academy, and Dev Bootcamp are changing the way we educate developers. We'll start by laying out the bad...
 
 1. __GPA as an external motivator for performance__
 
@@ -15,4 +15,4 @@ The process to succeed involved no concept of maintainability. I never learned t
 CS is broken because its practice has become detached from its purpose. The academic environment has attracted educators whose strength is largely biased towards the theory and not the implementation. I sat in a class where we were asked to design a database "assuming infinite resources and time". I haven't used that yet, but I am only a few months in…
 
 
-I had more practical understanding of the design, development environment, and testing of Ruby applications after one month in the Hungry Academy than graduating CS majors. Our industry is only as strong as the community behind it, and its future is in our hands.
+I had more practical understanding of the design, development environment, and testing of Ruby applications after two months in the Hungry Academy than graduating CS majors. I'll talk about what was different about Hungry Academy that led me to voluntarily commit untold 'free' time towards improving myself and how that can be applied to future eductation in technology.
