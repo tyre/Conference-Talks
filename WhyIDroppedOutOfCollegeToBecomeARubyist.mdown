@@ -1,16 +1,17 @@
-"I Dropped Out of College for Ruby"
-
 On January 31st I turned 21. On February 1st I was offered a spot in the Hungry Academy. A week later, I left one of the top 20 schools in America to become a Rubyist. 
 
 The CS educational system is broken, but programs like Hungry Academy, Code Academy, and Dev Bootcamp are changing the way we educate developers. Why do these programs work? Let's talk about:
 
 1. __GPA as an external motivator for performance__
+
 I am driven to succeed, but only insofar as success can be defined by generic testing. While many development teams are, in fact, results oriented, the drive for arbitrary measures detaches the producers from the product. What matters isn't whether or not what I made was shit, but whether or not I can convince you it is a B.
 
 2. __TDD and the Segmentation Fault (a love story)__
+
 The process to succeed involved no concept of maintainability. I never learned to write a single test, nor thought that such a thing was important. So long as I passed some arbitrary grading scripts, I was told that what I did was worthwhile. Languages are chosen despite their difficulty to learn and debug (e.g. C++ and the Segmentation Fault) which means that the process is lost in endless hunts for trivial mistakes and misunderstandings about the language itself.
 
 3. __Code wins arguments__
+
 CS is broken because its practice has become detached from its purpose. The academic environment has attracted educators whose strength is largely biased towards the theory and not the implementation. I sat in a class where we were asked to design a database "assuming infinite resources and time". I haven't used that yet, but I am only a few months in…
 
 
